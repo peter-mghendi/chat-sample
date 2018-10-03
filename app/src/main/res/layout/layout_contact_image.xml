@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/contactImageExpanded"
+        android:layout_width="256dp"
+        android:minWidth="256dp"
+        android:layout_height="256dp"
+        android:minHeight="256dp"
+        android:layout_gravity="center"/>
+</FrameLayout>
